@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white
+}
+.head {
+    color: gray
+}
+.footer {
+    font-size: 20px;
+}
+td, th {
+    padding: 1em; /* This creates the breathing room inside the cells */
+}
+
+table {
+    border-collapse: collapse; /* This makes the borders clean and single-lined */
+    margin-bottom: 2em; /* This adds space between your planet tables */
+}
